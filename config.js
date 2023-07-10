@@ -66,7 +66,7 @@ global.org = 'PASTE_YOUR_ORG_HERE'   // Get you Org-Key from 'https://platform.o
 /*============== STAFF ==============*/
 global.owner = [
   ['923470027813', 'ᴀʜᴍᴀᴅ ᴀʟɪ🎐', true] //don't change this name and number
-  ['0687742258','JERRY '+27 83 825 8193', 'OPIUM' '0780107802' false] //Replace your name and number here
+  ['0687742258' '+27 83 825 8193' '0780107802' false] //Replace your name and number here
   // [number, dia creator/owner?, dia developer?]
 0687742258] // Put your number here
 global.mods = ['923470027813',''] //Don't replace this,If you want to add someone add any dev
