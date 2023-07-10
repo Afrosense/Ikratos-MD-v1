@@ -69,7 +69,6 @@ global.owner = [
   ['0687742258', '+27 83 825 8193', '0780107802', false] //Replace your name and number here
   // [number, dia creator/owner?, dia developer?]
 ['0687742258'] // Put your number here
-global.prems = [] // Premium user is not here to add it, type .addprem @ user 10
 
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.lolkeysapi = ['BrunoSobrino']
